@@ -1,12 +1,12 @@
 {
   "name": "initforthe-build_essential",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tom Simnett",
   "licence": "MIT",
   "summary": "Build essentials for Ubuntu",
-  "source": "git@git.initforthe.com:initforthe/puppet-build-essential.git",
-  "project_page": "(http://git.initforthe.com/initforthe/puppet-build-essential)",
-  "issues_url": "(http://git.initforthe.com/initforthe/puppet-build-essential/issues)",
+  "source": "git://github.com/initforthe/puppet-build-essential.git",
+  "project_page": "(https://github.com/initforthe/puppet-build-essential)",
+  "issues_url": "(https://github.com/initforthe/puppet-build-essential/issues)",
   "tags": ["initforthe", "build-essential"],
   "operatingsystem_support": [
     {
